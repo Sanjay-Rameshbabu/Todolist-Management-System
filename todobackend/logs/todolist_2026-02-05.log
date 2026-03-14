@@ -1,0 +1,168 @@
+2026-02-05 10:00:57 - TodoListAPI - INFO - Mongodb connected successfully
+2026-02-05 10:01:00 - TodoListAPI - INFO - ..............TodoList API Started.....................
+2026-02-05 10:02:27 - TodoListAPI - ERROR - Authentication failed: Signature has expired.
+2026-02-05 10:02:27 - TodoListAPI - ERROR - Authentication failed: Signature has expired.
+2026-02-05 10:09:22 - TodoListAPI - INFO - User authenticated successfully: intelligentzombie100@gmail.com
+2026-02-05 10:09:22 - TodoListAPI - INFO - User logged in successfully: intelligentzombie100@gmail.com
+2026-02-05 10:09:22 - TodoListAPI - INFO - Fetching all notes for user: 6978b132de00dd52a8cd002e
+2026-02-05 10:09:22 - TodoListAPI - INFO - Fetching all notes for user: 6978b132de00dd52a8cd002e
+2026-02-05 10:23:10 - TodoListAPI - INFO - Fetching notes for date: 2026-02-05
+2026-02-05 10:25:46 - TodoListAPI - INFO - Fetching notes for date: 2026-02-05
+2026-02-05 10:25:46 - TodoListAPI - INFO - Fetching notes for date: 2026-02-05
+2026-02-05 10:25:50 - TodoListAPI - INFO - Fetching notes for date: 2026-02-04
+2026-02-05 10:25:55 - TodoListAPI - INFO - Fetching notes for date: 2026-02-03
+2026-02-05 10:25:58 - TodoListAPI - INFO - Fetching notes for date: 2026-02-01
+2026-02-05 10:26:01 - TodoListAPI - INFO - Fetching notes for date: 2026-02-04
+2026-02-05 10:26:13 - TodoListAPI - INFO - Fetching notes for date: 2026-02-05
+2026-02-05 10:26:13 - TodoListAPI - INFO - Fetching notes for date: 2026-02-05
+2026-02-05 10:27:13 - TodoListAPI - INFO - Fetching notes for date: 2026-02-04
+2026-02-05 10:27:20 - TodoListAPI - INFO - Fetching notes for date: 2026-02-03
+2026-02-05 10:27:23 - TodoListAPI - INFO - Fetching notes for date: 2026-02-01
+2026-02-05 10:27:26 - TodoListAPI - INFO - Fetching notes for date: 2026-02-05
+2026-02-05 10:27:32 - TodoListAPI - INFO - Fetching notes for date: 2026-02-04
+2026-02-05 10:27:35 - TodoListAPI - INFO - Fetching notes for date: 2026-02-05
+2026-02-05 10:27:39 - TodoListAPI - INFO - Fetching notes for date: 2026-02-01
+2026-02-05 10:27:42 - TodoListAPI - INFO - Fetching notes for date: 2026-02-05
+2026-02-05 10:29:20 - TodoListAPI - INFO - Audit log stored successfully
+2026-02-05 10:29:20 - TodoListAPI - INFO - Todo created successfully with noteid: 698423a8fb0847c95f555a78 for user: intelligentzombie100@gmail.com
+2026-02-05 10:29:20 - TodoListAPI - INFO - Fetching all notes for user: 6978b132de00dd52a8cd002e
+2026-02-05 10:30:57 - TodoListAPI - INFO - Audit log stored successfully
+2026-02-05 10:30:57 - TodoListAPI - INFO - Todo created successfully with noteid: 69842408fb0847c95f555a7a for user: intelligentzombie100@gmail.com
+2026-02-05 10:30:57 - TodoListAPI - INFO - Fetching all notes for user: 6978b132de00dd52a8cd002e
+2026-02-05 10:31:14 - TodoListAPI - INFO - Audit log stored successfully
+2026-02-05 10:31:14 - TodoListAPI - INFO - Updated Successfully
+2026-02-05 10:31:14 - TodoListAPI - INFO - Audit log stored successfully
+2026-02-05 10:31:14 - TodoListAPI - INFO - Date updated successfully for note 69842408fb0847c95f555a7a to 2026-02-05
+2026-02-05 10:31:14 - TodoListAPI - INFO - Fetching all notes for user: 6978b132de00dd52a8cd002e
+2026-02-05 10:36:39 - TodoListAPI - INFO - Fetching notes for date: 2026-02-04
+2026-02-05 10:36:42 - TodoListAPI - INFO - Fetching notes for date: 2026-02-03
+2026-02-05 10:36:59 - TodoListAPI - INFO - Fetching notes for date: 2026-02-04
+2026-02-05 10:37:02 - TodoListAPI - INFO - Fetching notes for date: 2026-02-05
+2026-02-05 10:37:05 - TodoListAPI - INFO - Fetching notes for date: 2026-02-04
+2026-02-05 10:37:10 - TodoListAPI - INFO - Fetching notes for date: 2026-02-05
+2026-02-05 10:37:21 - TodoListAPI - INFO - Fetching notes for date: 2026-02-04
+2026-02-05 10:37:25 - TodoListAPI - INFO - Fetching notes for date: 2026-02-03
+2026-02-05 10:37:28 - TodoListAPI - INFO - Fetching notes for date: 2026-02-01
+2026-02-05 10:37:35 - TodoListAPI - INFO - Fetching notes for date: 2026-02-03
+2026-02-05 10:37:41 - TodoListAPI - INFO - Fetching notes for date: 2026-02-01
+2026-02-05 10:37:46 - TodoListAPI - INFO - Fetching notes for date: 2026-02-03
+2026-02-05 10:38:04 - TodoListAPI - INFO - Fetching notes for date: 2026-02-04
+2026-02-05 10:38:06 - TodoListAPI - INFO - Fetching notes for date: 2026-02-05
+2026-02-05 10:38:13 - TodoListAPI - INFO - Fetching notes for date: 2026-02-04
+2026-02-05 10:38:36 - TodoListAPI - INFO - Fetching notes for date: 2026-02-03
+2026-02-05 10:39:24 - TodoListAPI - INFO - Fetching notes for date: 2026-02-05
+2026-02-05 11:09:56 - TodoListAPI - INFO - Audit log stored successfully
+2026-02-05 11:09:56 - TodoListAPI - INFO - Todo created successfully with noteid: 69842d2cfb0847c95f555a7e for user: intelligentzombie100@gmail.com
+2026-02-05 11:09:56 - TodoListAPI - INFO - ..............TodoList API Shutdown....................
+2026-02-05 11:09:58 - TodoListAPI - INFO - Mongodb connected successfully
+2026-02-05 11:09:59 - TodoListAPI - INFO - ..............TodoList API Started.....................
+2026-02-05 11:09:59 - TodoListAPI - INFO - Fetching all notes for user: 6978b132de00dd52a8cd002e
+2026-02-05 11:10:13 - TodoListAPI - INFO - Audit log stored successfully
+2026-02-05 11:10:13 - TodoListAPI - INFO - Soft delete is successfully for id:69842d2cfb0847c95f555a7e
+2026-02-05 11:10:13 - TodoListAPI - INFO - Fetching all notes for user: 6978b132de00dd52a8cd002e
+2026-02-05 11:10:23 - TodoListAPI - INFO - Audit log stored successfully
+2026-02-05 11:10:23 - TodoListAPI - INFO - Todo created successfully with noteid: 69842d47bf7cbbd0bd46fe40 for user: intelligentzombie100@gmail.com
+2026-02-05 11:10:23 - TodoListAPI - INFO - Fetching all notes for user: 6978b132de00dd52a8cd002e
+2026-02-05 11:10:30 - TodoListAPI - INFO - Audit log stored successfully
+2026-02-05 11:10:30 - TodoListAPI - INFO - Soft delete is successfully for id:69842d47bf7cbbd0bd46fe40
+2026-02-05 11:10:30 - TodoListAPI - INFO - Fetching all notes for user: 6978b132de00dd52a8cd002e
+2026-02-05 11:10:37 - TodoListAPI - INFO - Audit log stored successfully
+2026-02-05 11:10:37 - TodoListAPI - INFO - Todo created successfully with noteid: 69842d55bf7cbbd0bd46fe43 for user: intelligentzombie100@gmail.com
+2026-02-05 11:10:37 - TodoListAPI - INFO - Fetching all notes for user: 6978b132de00dd52a8cd002e
+2026-02-05 11:10:43 - TodoListAPI - INFO - Audit log stored successfully
+2026-02-05 11:10:43 - TodoListAPI - INFO - Soft delete is successfully for id:69842d55bf7cbbd0bd46fe43
+2026-02-05 11:10:43 - TodoListAPI - INFO - Fetching all notes for user: 6978b132de00dd52a8cd002e
+2026-02-05 11:13:23 - TodoListAPI - INFO - Audit log stored successfully
+2026-02-05 11:13:23 - TodoListAPI - INFO - Todo created successfully with noteid: 69842dfabf7cbbd0bd46fe46 for user: intelligentzombie100@gmail.com
+2026-02-05 11:13:23 - TodoListAPI - INFO - Fetching all notes for user: 6978b132de00dd52a8cd002e
+2026-02-05 11:13:54 - TodoListAPI - INFO - Audit log stored successfully
+2026-02-05 11:13:54 - TodoListAPI - INFO - Updated Successfully
+2026-02-05 11:13:54 - TodoListAPI - INFO - Audit log stored successfully
+2026-02-05 11:13:54 - TodoListAPI - INFO - Date updated successfully for note 69842dfabf7cbbd0bd46fe46 to 2026-02-05
+2026-02-05 11:13:54 - TodoListAPI - INFO - Fetching all notes for user: 6978b132de00dd52a8cd002e
+2026-02-05 12:51:39 - TodoListAPI - INFO - Fetching notes for date: 2026-02-05
+2026-02-05 12:54:47 - TodoListAPI - INFO - Fetching notes for date: 2026-02-05
+2026-02-05 14:04:50 - TodoListAPI - INFO - User authenticated successfully: intelligentzombie100@gmail.com
+2026-02-05 14:04:50 - TodoListAPI - INFO - User logged in successfully: intelligentzombie100@gmail.com
+2026-02-05 14:04:50 - TodoListAPI - INFO - Fetching notes for date: 2026-02-05
+2026-02-05 14:04:50 - TodoListAPI - INFO - Fetching notes for date: 2026-02-05
+2026-02-05 14:06:10 - TodoListAPI - INFO - Audit log stored successfully
+2026-02-05 14:06:10 - TodoListAPI - INFO - TodoList status updated 69842dfabf7cbbd0bd46fe46 to completed
+2026-02-05 14:06:11 - TodoListAPI - INFO - Audit log stored successfully
+2026-02-05 14:06:11 - TodoListAPI - INFO - TodoList status updated 69842dfabf7cbbd0bd46fe46 to not-completed
+2026-02-05 14:06:13 - TodoListAPI - INFO - Audit log stored successfully
+2026-02-05 14:06:13 - TodoListAPI - INFO - TodoList status updated 69842dfabf7cbbd0bd46fe46 to completed
+2026-02-05 14:06:14 - TodoListAPI - INFO - Email sent successfully to intelligentzombie100@gmail.com
+2026-02-05 14:06:15 - TodoListAPI - INFO - Email sent successfully to intelligentzombie100@gmail.com
+2026-02-05 14:06:17 - TodoListAPI - INFO - Email sent successfully to intelligentzombie100@gmail.com
+2026-02-05 14:12:24 - TodoListAPI - INFO - Fetching notes for date: 2026-02-04
+2026-02-05 14:12:27 - TodoListAPI - INFO - Fetching notes for date: 2026-02-03
+2026-02-05 14:12:32 - TodoListAPI - INFO - Fetching notes for date: 2026-02-04
+2026-02-05 14:12:34 - TodoListAPI - INFO - Fetching notes for date: 2026-02-05
+2026-02-05 14:12:38 - TodoListAPI - INFO - Fetching notes for date: 2026-02-01
+2026-02-05 14:12:42 - TodoListAPI - INFO - Fetching notes for date: 2026-01-31
+2026-02-05 14:12:46 - TodoListAPI - INFO - Fetching notes for date: 2026-02-03
+2026-02-05 14:12:51 - TodoListAPI - INFO - Fetching notes for date: 2026-02-05
+2026-02-05 14:12:51 - TodoListAPI - INFO - Fetching notes for date: 2026-02-05
+2026-02-05 14:12:54 - TodoListAPI - INFO - Fetching notes for date: 2026-02-04
+2026-02-05 14:12:57 - TodoListAPI - INFO - Fetching notes for date: 2026-02-03
+2026-02-05 14:12:59 - TodoListAPI - INFO - Fetching notes for date: 2026-02-05
+2026-02-05 14:12:59 - TodoListAPI - INFO - Fetching notes for date: 2026-02-05
+2026-02-05 14:15:47 - TodoListAPI - INFO - Audit log stored successfully
+2026-02-05 14:15:47 - TodoListAPI - INFO - TodoList status updated 698423a8fb0847c95f555a78 to completed
+2026-02-05 14:15:51 - TodoListAPI - INFO - Email sent successfully to intelligentzombie100@gmail.com
+2026-02-05 14:15:52 - TodoListAPI - INFO - Audit log stored successfully
+2026-02-05 14:15:53 - TodoListAPI - INFO - TodoList status updated 69842dfabf7cbbd0bd46fe46 to not-completed
+2026-02-05 14:15:56 - TodoListAPI - INFO - Email sent successfully to intelligentzombie100@gmail.com
+2026-02-05 14:38:34 - TodoListAPI - INFO - Fetching notes for date: 2026-02-05
+2026-02-05 14:51:22 - TodoListAPI - INFO - Audit log stored successfully
+2026-02-05 14:51:22 - TodoListAPI - INFO - Todo created successfully with noteid: 69846112bf7cbbd0bd46fe4f for user: intelligentzombie100@gmail.com
+2026-02-05 14:51:22 - TodoListAPI - INFO - Fetching all notes for user: 6978b132de00dd52a8cd002e
+2026-02-05 14:53:41 - TodoListAPI - INFO - Fetching notes for date: 2026-02-05
+2026-02-05 14:53:41 - TodoListAPI - INFO - Fetching notes for date: 2026-02-05
+2026-02-05 14:56:29 - TodoListAPI - INFO - Fetching notes for date: 2026-02-05
+2026-02-05 14:56:29 - TodoListAPI - INFO - Fetching notes for date: 2026-02-05
+2026-02-05 15:03:57 - TodoListAPI - INFO - Audit log stored successfully
+2026-02-05 15:03:57 - TodoListAPI - INFO - Todo created successfully with noteid: 69846405bf7cbbd0bd46fe51 for user: intelligentzombie100@gmail.com
+2026-02-05 15:03:57 - TodoListAPI - INFO - Fetching all notes for user: 6978b132de00dd52a8cd002e
+2026-02-05 15:04:08 - TodoListAPI - INFO - Audit log stored successfully
+2026-02-05 15:04:08 - TodoListAPI - INFO - Soft delete is successfully for id:69846405bf7cbbd0bd46fe51
+2026-02-05 15:04:08 - TodoListAPI - INFO - Fetching all notes for user: 6978b132de00dd52a8cd002e
+2026-02-05 15:14:07 - TodoListAPI - INFO - Fetching notes for date: 2026-02-04
+2026-02-05 15:14:12 - TodoListAPI - INFO - Audit log stored successfully
+2026-02-05 15:14:12 - TodoListAPI - INFO - TodoList status updated 6982dfc3f6613c1d6977c4b1 to completed
+2026-02-05 15:14:16 - TodoListAPI - INFO - Email sent successfully to intelligentzombie100@gmail.com
+2026-02-05 15:14:16 - TodoListAPI - INFO - Audit log stored successfully
+2026-02-05 15:14:16 - TodoListAPI - INFO - TodoList status updated 6982dfc3f6613c1d6977c4b1 to not-completed
+2026-02-05 15:14:20 - TodoListAPI - INFO - Email sent successfully to intelligentzombie100@gmail.com
+2026-02-05 15:14:35 - TodoListAPI - INFO - Fetching notes for date: 2026-02-05
+2026-02-05 15:14:35 - TodoListAPI - INFO - Fetching notes for date: 2026-02-05
+2026-02-05 15:14:45 - TodoListAPI - INFO - Fetching notes for date: 2026-02-04
+2026-02-05 15:14:49 - TodoListAPI - INFO - Audit log stored successfully
+2026-02-05 15:14:49 - TodoListAPI - INFO - TodoList status updated 6982dfc3f6613c1d6977c4b1 to completed
+2026-02-05 15:14:52 - TodoListAPI - INFO - Email sent successfully to intelligentzombie100@gmail.com
+2026-02-09 10:06:33 - TodoListAPI - ERROR - Authentication failed: Signature has expired.
+2026-02-09 10:06:33 - TodoListAPI - ERROR - Authentication failed: Signature has expired.
+2026-02-09 10:06:58 - TodoListAPI - INFO - User authenticated successfully: intelligentzombie100@gmail.com
+2026-02-09 10:06:58 - TodoListAPI - INFO - User logged in successfully: intelligentzombie100@gmail.com
+2026-02-09 10:06:58 - TodoListAPI - INFO - Fetching notes for date: 2026-02-09
+2026-02-09 10:06:58 - TodoListAPI - INFO - Fetching notes for date: 2026-02-09
+2026-02-09 10:07:04 - TodoListAPI - INFO - Fetching notes for date: 2026-02-08
+2026-02-09 10:07:08 - TodoListAPI - INFO - Fetching notes for date: 2026-02-07
+2026-02-09 10:07:12 - TodoListAPI - INFO - Fetching notes for date: 2026-02-06
+2026-02-09 10:07:15 - TodoListAPI - INFO - Fetching notes for date: 2026-02-05
+2026-02-09 10:07:20 - TodoListAPI - INFO - Fetching notes for date: 2026-02-04
+2026-02-09 10:24:02 - TodoListAPI - INFO - Fetching notes for date: 2026-02-03
+2026-02-09 10:24:05 - TodoListAPI - INFO - Fetching notes for date: 2026-02-04
+2026-02-09 10:24:09 - TodoListAPI - INFO - Fetching notes for date: 2026-02-03
+2026-02-09 10:24:13 - TodoListAPI - INFO - Fetching notes for date: 2026-02-04
+2026-02-09 10:24:17 - TodoListAPI - INFO - Fetching notes for date: 2026-02-03
+2026-02-09 10:24:21 - TodoListAPI - INFO - Fetching notes for date: 2026-02-01
+2026-02-09 10:24:24 - TodoListAPI - INFO - Fetching notes for date: 2026-02-03
+2026-02-09 10:24:28 - TodoListAPI - INFO - Fetching notes for date: 2026-02-04
+2026-02-09 10:24:29 - TodoListAPI - INFO - Fetching notes for date: 2026-02-09
+2026-02-09 10:24:29 - TodoListAPI - INFO - Fetching notes for date: 2026-02-09
+2026-02-09 10:24:33 - TodoListAPI - INFO - Fetching notes for date: 2026-02-03
+2026-02-09 10:24:36 - TodoListAPI - INFO - Fetching notes for date: 2026-02-04
+2026-02-09 10:24:42 - TodoListAPI - INFO - Fetching notes for date: 2026-02-09
+2026-02-09 11:09:01 - TodoListAPI - INFO - ..............TodoList API Shutdown....................

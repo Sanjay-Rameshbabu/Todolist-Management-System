@@ -1,0 +1,110 @@
+2026-01-27 10:02:53 - TodoListAPI - INFO - Mongodb connected successfully
+2026-01-27 10:02:53 - TodoListAPI - INFO - ..............TodoList API Started.....................
+2026-01-27 10:05:26 - TodoListAPI - INFO - ..............TodoList API Shutdown....................
+2026-01-27 10:11:15 - TodoListAPI - INFO - Mongodb connected successfully
+2026-01-27 10:11:22 - TodoListAPI - INFO - ..............TodoList API Started.....................
+2026-01-27 10:16:10 - TodoListAPI - INFO - ..............TodoList API Shutdown....................
+2026-01-27 10:16:15 - TodoListAPI - INFO - Mongodb connected successfully
+2026-01-27 10:16:16 - TodoListAPI - INFO - ..............TodoList API Started.....................
+2026-01-27 10:19:19 - TodoListAPI - INFO - User authenticated successfully: rahulram@gmail.com
+2026-01-27 10:19:19 - TodoListAPI - INFO - User logged in successfully: rahulram@gmail.com
+2026-01-27 10:20:40 - TodoListAPI - INFO - Audit log stored successfully
+2026-01-27 10:20:40 - TodoListAPI - INFO - Todo created successfully with noteid: 6978442053e1fdf90302bb90 for user: rahulram@gmail.com
+2026-01-27 10:23:58 - TodoListAPI - INFO - Audit log stored successfully
+2026-01-27 10:23:58 - TodoListAPI - INFO - Date updated successfully for note 6978442053e1fdf90302bb90 to 2026-01-28
+2026-01-27 10:24:17 - TodoListAPI - ERROR - Authentication failed: Signature has expired.
+2026-01-27 10:24:32 - TodoListAPI - ERROR - Authentication failed: Not enough segments
+2026-01-27 10:24:50 - TodoListAPI - INFO - Fetching all notes for user: 6971e10eb88d67493c6b3554
+2026-01-27 10:25:15 - TodoListAPI - INFO - Fetching all audit logs
+2026-01-27 10:25:39 - TodoListAPI - INFO - Fetching logs for note_id: 69736b7cfdd10cdc2c6ccdd3
+2026-01-27 10:27:04 - TodoListAPI - INFO - ..............TodoList API Shutdown....................
+2026-01-27 10:27:06 - TodoListAPI - INFO - Mongodb connected successfully
+2026-01-27 10:27:07 - TodoListAPI - INFO - ..............TodoList API Started.....................
+2026-01-27 10:28:00 - TodoListAPI - INFO - ..............TodoList API Shutdown....................
+2026-01-27 10:28:03 - TodoListAPI - INFO - Mongodb connected successfully
+2026-01-27 10:28:03 - TodoListAPI - INFO - ..............TodoList API Started.....................
+2026-01-27 10:30:58 - TodoListAPI - INFO - ..............TodoList API Shutdown....................
+2026-01-27 10:31:01 - TodoListAPI - INFO - Mongodb connected successfully
+2026-01-27 10:31:02 - TodoListAPI - INFO - ..............TodoList API Started.....................
+2026-01-27 12:00:11 - TodoListAPI - INFO - User authenticated successfully: rahulram@gmail.com
+2026-01-27 12:00:11 - TodoListAPI - INFO - User logged in successfully: rahulram@gmail.com
+2026-01-27 12:16:35 - TodoListAPI - INFO - User authenticated successfully: rahulram@gmail.com
+2026-01-27 12:16:35 - TodoListAPI - INFO - User logged in successfully: rahulram@gmail.com
+2026-01-27 12:26:00 - TodoListAPI - INFO - ..............TodoList API Shutdown....................
+2026-01-27 12:27:11 - TodoListAPI - INFO - Mongodb connected successfully
+2026-01-27 12:27:16 - TodoListAPI - INFO - ..............TodoList API Started.....................
+2026-01-27 12:29:10 - TodoListAPI - INFO - Fetching all notes is successfully
+2026-01-27 12:33:50 - TodoListAPI - INFO - Audit log stored successfully
+2026-01-27 12:33:50 - TodoListAPI - INFO - Todo created successfully with noteid: 697863569358396cdd73b3fe for user: rahulram@gmail.com
+2026-01-27 12:34:11 - TodoListAPI - INFO - Fetching all notes is successfully
+2026-01-27 12:34:32 - TodoListAPI - INFO - Audit log stored successfully
+2026-01-27 12:34:32 - TodoListAPI - INFO - Todo created successfully with noteid: 6978637f9358396cdd73b400 for user: rahulram@gmail.com
+2026-01-27 12:36:06 - TodoListAPI - INFO - Fetching all notes is successfully
+2026-01-27 13:46:23 - TodoListAPI - INFO - ..............TodoList API Shutdown....................
+2026-01-27 16:25:11 - TodoListAPI - INFO - Mongodb connected successfully
+2026-01-27 16:25:16 - TodoListAPI - INFO - ..............TodoList API Started.....................
+2026-01-27 16:40:37 - TodoListAPI - INFO - ..............TodoList API Shutdown....................
+2026-01-27 16:40:40 - TodoListAPI - INFO - Mongodb connected successfully
+2026-01-27 16:40:40 - TodoListAPI - INFO - ..............TodoList API Started.....................
+2026-01-27 16:46:20 - TodoListAPI - INFO - User authenticated successfully: rahulram@gmail.com
+2026-01-27 16:46:20 - TodoListAPI - INFO - User logged in successfully: rahulram@gmail.com
+2026-01-27 17:09:19 - TodoListAPI - INFO - User authenticated successfully: rahulram@gmail.com
+2026-01-27 17:09:19 - TodoListAPI - INFO - User logged in successfully: rahulram@gmail.com
+2026-01-27 17:09:44 - TodoListAPI - INFO - User authenticated successfully: rahulram@gmail.com
+2026-01-27 17:09:44 - TodoListAPI - INFO - User logged in successfully: rahulram@gmail.com
+2026-01-27 18:06:02 - TodoListAPI - INFO - User created successfully: intelligentzombie100@gmail.com
+2026-01-27 18:06:02 - TodoListAPI - INFO - User signed up successfully: intelligentzombie100@gmail.com
+2026-01-27 18:06:37 - TodoListAPI - INFO - User authenticated successfully: intelligentzombie100@gmail.com
+2026-01-27 18:06:37 - TodoListAPI - INFO - User logged in successfully: intelligentzombie100@gmail.com
+2026-01-27 18:06:37 - TodoListAPI - INFO - Fetching all notes for user: 6978b132de00dd52a8cd002e
+2026-01-27 18:06:37 - TodoListAPI - INFO - Fetching all notes for user: 6978b132de00dd52a8cd002e
+2026-01-27 18:06:59 - TodoListAPI - INFO - Audit log stored successfully
+2026-01-27 18:06:59 - TodoListAPI - INFO - Todo created successfully with noteid: 6978b16bde00dd52a8cd002f for user: intelligentzombie100@gmail.com
+2026-01-27 18:06:59 - TodoListAPI - INFO - Fetching all notes for user: 6978b132de00dd52a8cd002e
+2026-01-27 18:07:05 - TodoListAPI - INFO - Audit log stored successfully
+2026-01-27 18:07:05 - TodoListAPI - INFO - TodoList status updated 6978b16bde00dd52a8cd002f to completed
+2026-01-27 18:07:05 - TodoListAPI - INFO - Fetching all notes for user: 6978b132de00dd52a8cd002e
+2026-01-27 18:07:09 - TodoListAPI - INFO - Email sent successfully to intelligentzombie100@gmail.com
+2026-01-27 18:07:16 - TodoListAPI - INFO - Audit log stored successfully
+2026-01-27 18:07:16 - TodoListAPI - INFO - TodoList status updated 6978b16bde00dd52a8cd002f to not-completed
+2026-01-27 18:07:16 - TodoListAPI - INFO - Fetching all notes for user: 6978b132de00dd52a8cd002e
+2026-01-27 18:07:19 - TodoListAPI - INFO - Email sent successfully to intelligentzombie100@gmail.com
+2026-01-27 18:08:17 - TodoListAPI - INFO - Audit log stored successfully
+2026-01-27 18:08:17 - TodoListAPI - INFO - Todo created successfully with noteid: 6978b1b9de00dd52a8cd0033 for user: intelligentzombie100@gmail.com
+2026-01-27 18:08:17 - TodoListAPI - INFO - Fetching all notes for user: 6978b132de00dd52a8cd002e
+2026-01-27 18:08:56 - TodoListAPI - INFO - User authenticated successfully: intelligentzombie100@gmail.com
+2026-01-27 18:08:56 - TodoListAPI - INFO - User logged in successfully: intelligentzombie100@gmail.com
+2026-01-27 18:08:56 - TodoListAPI - INFO - Fetching all notes for user: 6978b132de00dd52a8cd002e
+2026-01-27 18:08:56 - TodoListAPI - INFO - Fetching all notes for user: 6978b132de00dd52a8cd002e
+2026-01-27 18:09:27 - TodoListAPI - INFO - Audit log stored successfully
+2026-01-27 18:09:27 - TodoListAPI - INFO - TodoList status updated 6978b16bde00dd52a8cd002f to completed
+2026-01-27 18:09:27 - TodoListAPI - INFO - Fetching all notes for user: 6978b132de00dd52a8cd002e
+2026-01-27 18:09:30 - TodoListAPI - INFO - Email sent successfully to intelligentzombie100@gmail.com
+2026-01-27 18:09:55 - TodoListAPI - INFO - Audit log stored successfully
+2026-01-27 18:09:55 - TodoListAPI - INFO - Soft delete is successfully for id:6978b16bde00dd52a8cd002f
+2026-01-27 18:09:55 - TodoListAPI - INFO - Fetching all notes for user: 6978b132de00dd52a8cd002e
+2026-01-27 18:11:23 - TodoListAPI - INFO - Audit log stored successfully
+2026-01-27 18:11:23 - TodoListAPI - INFO - TodoList status updated 6978b1b9de00dd52a8cd0033 to completed
+2026-01-27 18:11:23 - TodoListAPI - INFO - Fetching all notes for user: 6978b132de00dd52a8cd002e
+2026-01-27 18:11:26 - TodoListAPI - INFO - Email sent successfully to intelligentzombie100@gmail.com
+2026-01-27 18:11:29 - TodoListAPI - INFO - Audit log stored successfully
+2026-01-27 18:11:29 - TodoListAPI - INFO - TodoList status updated 6978b1b9de00dd52a8cd0033 to not-completed
+2026-01-27 18:11:29 - TodoListAPI - INFO - Fetching all notes for user: 6978b132de00dd52a8cd002e
+2026-01-27 18:11:32 - TodoListAPI - INFO - Email sent successfully to intelligentzombie100@gmail.com
+2026-01-27 18:12:51 - TodoListAPI - INFO - User authenticated successfully: rahulram@gmail.com
+2026-01-27 18:12:51 - TodoListAPI - INFO - User logged in successfully: rahulram@gmail.com
+2026-01-27 18:12:51 - TodoListAPI - INFO - Fetching all notes for user: 6971e10eb88d67493c6b3554
+2026-01-27 18:12:51 - TodoListAPI - INFO - Fetching all notes for user: 6971e10eb88d67493c6b3554
+2026-01-27 18:14:50 - TodoListAPI - INFO - Audit log stored successfully
+2026-01-27 18:14:50 - TodoListAPI - INFO - TodoList status updated 6978637f9358396cdd73b400 to completed
+2026-01-27 18:14:50 - TodoListAPI - INFO - Fetching all notes for user: 6971e10eb88d67493c6b3554
+2026-01-27 18:14:53 - TodoListAPI - INFO - Email sent successfully to rahulram@gmail.com
+2026-01-27 18:15:02 - TodoListAPI - INFO - Audit log stored successfully
+2026-01-27 18:15:02 - TodoListAPI - INFO - TodoList status updated 6978637f9358396cdd73b400 to not-completed
+2026-01-27 18:15:02 - TodoListAPI - INFO - Fetching all notes for user: 6971e10eb88d67493c6b3554
+2026-01-27 18:15:05 - TodoListAPI - INFO - Email sent successfully to rahulram@gmail.com
+2026-01-27 18:15:30 - TodoListAPI - INFO - Audit log stored successfully
+2026-01-27 18:15:30 - TodoListAPI - INFO - TodoList status updated 6978637f9358396cdd73b400 to completed
+2026-01-27 18:15:30 - TodoListAPI - INFO - Fetching all notes for user: 6971e10eb88d67493c6b3554
+2026-01-27 18:15:33 - TodoListAPI - INFO - Email sent successfully to rahulram@gmail.com
+2026-01-27 18:40:35 - TodoListAPI - INFO - ..............TodoList API Shutdown....................

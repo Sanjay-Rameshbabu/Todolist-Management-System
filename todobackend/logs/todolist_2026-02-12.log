@@ -1,0 +1,352 @@
+2026-02-12 10:11:28 - TodoListAPI - INFO - Mongodb connected successfully
+2026-02-12 10:11:29 - TodoListAPI - INFO - ..............TodoList API Started.....................
+2026-02-12 10:17:36 - TodoListAPI - WARNING - Invalid password for user: nitheeshdev@gmail.com
+2026-02-12 10:17:36 - TodoListAPI - WARNING - Login failed: Invalid credentials - nitheeshdev@gmail.com
+2026-02-12 10:17:43 - TodoListAPI - INFO - User authenticated successfully: nitheeshdev@gmail.com
+2026-02-12 10:17:43 - TodoListAPI - INFO - User logged in successfully: nitheeshdev@gmail.com
+2026-02-12 10:18:27 - TodoListAPI - INFO - User authenticated successfully: intelligentzombie100@gmail.com
+2026-02-12 10:18:27 - TodoListAPI - INFO - User logged in successfully: intelligentzombie100@gmail.com
+2026-02-12 10:20:45 - TodoListAPI - INFO - Fetching notes for date: 2026-02-12
+2026-02-12 10:20:45 - TodoListAPI - INFO - Fetching notes for date: 2026-02-12
+2026-02-12 10:20:57 - TodoListAPI - INFO - Fetching notes for date: 2026-02-11
+2026-02-12 10:23:12 - TodoListAPI - INFO - Fetching notes for date: 2026-02-12
+2026-02-12 10:23:12 - TodoListAPI - INFO - Fetching notes for date: 2026-02-12
+2026-02-12 10:24:16 - TodoListAPI - INFO - Audit log stored successfully
+2026-02-12 10:24:16 - TodoListAPI - INFO - Todo created successfully with noteid: 698d5cf7641f7b7860d01eb7 for user: intelligentzombie100@gmail.com
+2026-02-12 10:24:16 - TodoListAPI - INFO - Fetching all notes for user: 6978b132de00dd52a8cd002e
+2026-02-12 10:29:35 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 10:29:44 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-12 10:29:45 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 10:29:48 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 10:29:49 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 10:30:28 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 10:41:11 - TodoListAPI - INFO - Fetching notes for date: 2026-02-12
+2026-02-12 10:41:11 - TodoListAPI - INFO - Fetching notes for date: 2026-02-12
+2026-02-12 10:44:03 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 10:44:08 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-12 10:49:19 - TodoListAPI - INFO - Fetching notes for date: 2026-02-12
+2026-02-12 10:49:19 - TodoListAPI - INFO - Fetching notes for date: 2026-02-12
+2026-02-12 10:51:28 - TodoListAPI - INFO - Fetching notes for date: 2026-02-12
+2026-02-12 10:51:28 - TodoListAPI - INFO - Fetching notes for date: 2026-02-12
+2026-02-12 10:51:35 - TodoListAPI - INFO - Fetching notes for date: 2026-02-11
+2026-02-12 10:56:38 - TodoListAPI - INFO - User authenticated successfully: intelligentzombie100@gmail.com
+2026-02-12 10:56:38 - TodoListAPI - INFO - User logged in successfully: intelligentzombie100@gmail.com
+2026-02-12 10:56:38 - TodoListAPI - INFO - Fetching notes for date: 2026-02-12
+2026-02-12 10:56:38 - TodoListAPI - INFO - Fetching notes for date: 2026-02-12
+2026-02-12 10:56:43 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-12 11:01:19 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 11:01:22 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 11:01:23 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 11:01:26 - TodoListAPI - INFO - Fetching notes for date: 2026-02-12
+2026-02-12 11:01:27 - TodoListAPI - INFO - Fetching notes for date: 2026-02-12
+2026-02-12 11:01:30 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-12 11:01:37 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 11:07:53 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 11:07:53 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 11:11:20 - TodoListAPI - INFO - Fetching notes for date: 2026-02-12
+2026-02-12 11:23:36 - TodoListAPI - INFO - Fetching notes for date: 2026-02-04
+2026-02-12 11:23:40 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-12 11:23:43 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 11:23:47 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 11:37:20 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 11:37:24 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 11:37:27 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 11:37:30 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 11:37:32 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 11:37:33 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 11:37:34 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 11:38:10 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 11:38:12 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 11:38:13 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 11:38:14 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 11:38:16 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 11:38:17 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 11:38:17 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 11:38:21 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 11:38:23 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 11:38:33 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 12:07:29 - TodoListAPI - INFO - Fetching notes for date: 2026-02-12
+2026-02-12 12:09:50 - TodoListAPI - INFO - Fetching notes for date: 2026-02-12
+2026-02-12 12:09:50 - TodoListAPI - INFO - Fetching notes for date: 2026-02-12
+2026-02-12 12:09:57 - TodoListAPI - INFO - Fetching notes for date: 2026-02-12
+2026-02-12 12:10:04 - TodoListAPI - INFO - Fetching notes for date: 2026-02-12
+2026-02-12 12:10:04 - TodoListAPI - INFO - Fetching notes for date: 2026-02-12
+2026-02-12 12:10:07 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-12 12:10:07 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-12 12:10:09 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 12:10:11 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 12:15:37 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-12 12:15:37 - TodoListAPI - INFO - ..............TodoList API Shutdown....................
+2026-02-12 12:15:41 - TodoListAPI - INFO - Mongodb connected successfully
+2026-02-12 12:15:46 - TodoListAPI - INFO - ..............TodoList API Started.....................
+2026-02-12 12:17:27 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-12 12:17:31 - TodoListAPI - INFO - Fetching notes for date: 2026-02-12
+2026-02-12 12:17:32 - TodoListAPI - INFO - Fetching notes for date: 2026-02-12
+2026-02-12 12:17:35 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-12 12:17:35 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-12 12:17:38 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 12:21:56 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-12 12:22:32 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-12 12:26:09 - TodoListAPI - INFO - Fetching notes for date: 2026-02-12
+2026-02-12 12:30:37 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-12 12:30:37 - TodoListAPI - INFO - ..............TodoList API Shutdown....................
+2026-02-12 12:30:40 - TodoListAPI - INFO - Mongodb connected successfully
+2026-02-12 12:30:41 - TodoListAPI - INFO - ..............TodoList API Started.....................
+2026-02-12 12:30:41 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-12 12:30:41 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 12:30:42 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 12:30:43 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 12:30:43 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 12:30:44 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 12:30:44 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 12:30:44 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 12:30:45 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 12:30:47 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 12:35:32 - TodoListAPI - INFO - User authenticated successfully: intelligentzombie100@gmail.com
+2026-02-12 12:35:32 - TodoListAPI - INFO - User logged in successfully: intelligentzombie100@gmail.com
+2026-02-12 12:36:16 - TodoListAPI - INFO - Fetching notes for date: 2026-01-10
+2026-02-12 12:36:43 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-12 12:41:29 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 12:45:02 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 12:45:03 - TodoListAPI - INFO - ..............TodoList API Shutdown....................
+2026-02-12 12:45:05 - TodoListAPI - INFO - Mongodb connected successfully
+2026-02-12 12:45:06 - TodoListAPI - INFO - ..............TodoList API Started.....................
+2026-02-12 12:45:11 - TodoListAPI - INFO - ..............TodoList API Shutdown....................
+2026-02-12 12:45:13 - TodoListAPI - INFO - Mongodb connected successfully
+2026-02-12 12:45:13 - TodoListAPI - INFO - ..............TodoList API Started.....................
+2026-02-12 12:45:17 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 12:48:06 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 12:48:10 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 12:48:19 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 12:48:22 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 12:48:23 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 12:48:24 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 12:48:25 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 12:48:29 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 12:48:30 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 13:49:24 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 13:51:28 - TodoListAPI - INFO - Fetching notes for date: 2026-02-12
+2026-02-12 13:51:28 - TodoListAPI - INFO - Fetching notes for date: 2026-02-12
+2026-02-12 13:51:32 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-12 13:51:32 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-12 13:51:40 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 13:51:42 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 13:51:43 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 13:51:47 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 13:51:48 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 13:51:49 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 13:51:53 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 14:00:53 - TodoListAPI - INFO - Fetching notes for date: 2026-02-12
+2026-02-12 14:00:53 - TodoListAPI - INFO - Fetching notes for date: 2026-02-12
+2026-02-12 14:05:53 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-12 14:05:53 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-12 14:06:04 - TodoListAPI - INFO - Fetching notes for date: 2026-02-12
+2026-02-12 14:06:04 - TodoListAPI - INFO - Fetching notes for date: 2026-02-12
+2026-02-12 14:06:20 - TodoListAPI - INFO - Fetching notes for date: 2026-02-12
+2026-02-12 14:06:20 - TodoListAPI - INFO - Fetching notes for date: 2026-02-12
+2026-02-12 14:06:26 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-12 14:06:26 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-12 14:06:29 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 14:06:30 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 14:06:33 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 14:06:38 - TodoListAPI - INFO - Audit log stored successfully
+2026-02-12 14:06:38 - TodoListAPI - INFO - TodoList status updated 698abc95538a56ea26cfa9ec to completed
+2026-02-12 14:06:41 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 14:06:42 - TodoListAPI - INFO - Email sent successfully to intelligentzombie100@gmail.com
+2026-02-12 14:08:56 - TodoListAPI - INFO - Fetching notes for date: 2026-02-12
+2026-02-12 14:08:56 - TodoListAPI - INFO - Fetching notes for date: 2026-02-12
+2026-02-12 14:09:14 - TodoListAPI - INFO - Fetching notes for date: 2026-02-12
+2026-02-12 14:09:14 - TodoListAPI - INFO - Fetching notes for date: 2026-02-12
+2026-02-12 14:09:27 - TodoListAPI - INFO - Fetching notes for date: 2026-02-12
+2026-02-12 14:09:45 - TodoListAPI - INFO - Fetching notes for date: 2026-02-12
+2026-02-12 14:18:14 - TodoListAPI - INFO - ..............TodoList API Shutdown....................
+2026-02-12 14:18:19 - TodoListAPI - INFO - Mongodb connected successfully
+2026-02-12 14:18:20 - TodoListAPI - INFO - ..............TodoList API Started.....................
+2026-02-12 14:18:42 - TodoListAPI - INFO - Fetching notes for date: 2026-02-12
+2026-02-12 14:18:42 - TodoListAPI - INFO - Fetching notes for date: 2026-02-12
+2026-02-12 14:20:23 - TodoListAPI - INFO - ..............TodoList API Shutdown....................
+2026-02-12 14:20:25 - TodoListAPI - INFO - Mongodb connected successfully
+2026-02-12 14:20:25 - TodoListAPI - INFO - ..............TodoList API Started.....................
+2026-02-12 14:20:41 - TodoListAPI - INFO - Mongodb connected successfully
+2026-02-12 14:20:44 - TodoListAPI - INFO - ..............TodoList API Started.....................
+2026-02-12 14:22:41 - TodoListAPI - INFO - User authenticated successfully: intelligentzombie100@gmail.com
+2026-02-12 14:22:41 - TodoListAPI - INFO - User logged in successfully: intelligentzombie100@gmail.com
+2026-02-12 14:22:41 - TodoListAPI - INFO - ..............TodoList API Shutdown....................
+2026-02-12 14:22:43 - TodoListAPI - INFO - Mongodb connected successfully
+2026-02-12 14:22:44 - TodoListAPI - INFO - ..............TodoList API Started.....................
+2026-02-12 14:22:44 - TodoListAPI - INFO - Fetching notes for date: 2026-02-12
+2026-02-12 14:22:44 - TodoListAPI - INFO - Fetching notes for date: 2026-02-12
+2026-02-12 14:22:51 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-12 14:22:51 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-12 14:22:56 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 14:23:03 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 14:23:05 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 14:23:07 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 14:23:17 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 14:23:38 - TodoListAPI - INFO - ..............TodoList API Shutdown....................
+2026-02-12 14:23:40 - TodoListAPI - INFO - Mongodb connected successfully
+2026-02-12 14:23:41 - TodoListAPI - INFO - ..............TodoList API Started.....................
+2026-02-12 14:37:44 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-12 14:41:58 - TodoListAPI - INFO - Fetching notes for date: 2026-02-12
+2026-02-12 14:41:58 - TodoListAPI - INFO - Fetching notes for date: 2026-02-12
+2026-02-12 14:42:09 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-12 14:42:09 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-12 14:42:14 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 14:42:20 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 14:42:21 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 14:42:26 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 14:42:30 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 14:43:51 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-12 14:43:58 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 14:44:02 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 14:44:18 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 14:44:23 - TodoListAPI - INFO - Fetching notes for date: 2026-02-12
+2026-02-12 14:44:23 - TodoListAPI - INFO - Fetching notes for date: 2026-02-12
+2026-02-12 14:44:41 - TodoListAPI - INFO - Audit log stored successfully
+2026-02-12 14:44:41 - TodoListAPI - INFO - Todo created successfully with noteid: 698d9a014994513d4ecf2bb3 for user: intelligentzombie100@gmail.com
+2026-02-12 14:44:41 - TodoListAPI - INFO - Fetching all notes for user: 6978b132de00dd52a8cd002e
+2026-02-12 14:45:04 - TodoListAPI - INFO - Fetching notes for date: 2026-02-12
+2026-02-12 14:45:04 - TodoListAPI - INFO - Fetching notes for date: 2026-02-12
+2026-02-12 14:45:10 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 14:46:21 - TodoListAPI - INFO - Fetching notes for date: 2026-02-12
+2026-02-12 14:46:53 - TodoListAPI - INFO - Fetching notes for date: 2026-02-12
+2026-02-12 14:47:26 - TodoListAPI - INFO - Fetching notes for date: 2026-02-12
+2026-02-12 14:47:33 - TodoListAPI - INFO - Audit log stored successfully
+2026-02-12 14:47:33 - TodoListAPI - INFO - Soft delete is successfully for id:698d9a014994513d4ecf2bb3
+2026-02-12 14:47:33 - TodoListAPI - INFO - Fetching notes for date: 2026-02-12
+2026-02-12 14:47:47 - TodoListAPI - INFO - Audit log stored successfully
+2026-02-12 14:47:47 - TodoListAPI - INFO - Todo created successfully with noteid: 698d9abb4994513d4ecf2bb6 for user: intelligentzombie100@gmail.com
+2026-02-12 14:47:47 - TodoListAPI - INFO - Fetching all notes for user: 6978b132de00dd52a8cd002e
+2026-02-12 14:48:44 - TodoListAPI - INFO - Fetching notes for date: 2026-02-12
+2026-02-12 14:49:10 - TodoListAPI - INFO - Fetching notes for date: 2026-02-12
+2026-02-12 14:49:10 - TodoListAPI - INFO - Fetching notes for date: 2026-02-12
+2026-02-12 14:49:17 - TodoListAPI - INFO - Audit log stored successfully
+2026-02-12 14:49:17 - TodoListAPI - INFO - Soft delete is successfully for id:698d9abb4994513d4ecf2bb6
+2026-02-12 14:49:17 - TodoListAPI - INFO - Fetching notes for date: 2026-02-12
+2026-02-12 14:49:27 - TodoListAPI - INFO - Audit log stored successfully
+2026-02-12 14:49:27 - TodoListAPI - INFO - Todo created successfully with noteid: 698d9b1f4994513d4ecf2bb9 for user: intelligentzombie100@gmail.com
+2026-02-12 14:49:27 - TodoListAPI - INFO - Fetching all notes for user: 6978b132de00dd52a8cd002e
+2026-02-12 14:53:18 - TodoListAPI - INFO - Fetching notes for date: 2026-02-12
+2026-02-12 14:53:18 - TodoListAPI - INFO - Fetching notes for date: 2026-02-12
+2026-02-12 14:53:30 - TodoListAPI - INFO - Audit log stored successfully
+2026-02-12 14:53:30 - TodoListAPI - INFO - Soft delete is successfully for id:698d9b1f4994513d4ecf2bb9
+2026-02-12 14:53:30 - TodoListAPI - INFO - Fetching notes for date: 2026-02-12
+2026-02-12 14:53:42 - TodoListAPI - INFO - Audit log stored successfully
+2026-02-12 14:53:42 - TodoListAPI - INFO - Todo created successfully with noteid: 698d9c1d4994513d4ecf2bbc for user: intelligentzombie100@gmail.com
+2026-02-12 14:53:42 - TodoListAPI - INFO - Fetching all notes for user: 6978b132de00dd52a8cd002e
+2026-02-12 14:53:46 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 14:53:49 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 14:54:10 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-12 14:54:10 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-12 14:54:13 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 14:54:15 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 14:54:17 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 14:59:29 - TodoListAPI - INFO - Fetching notes for date: 2026-02-12
+2026-02-12 15:00:43 - TodoListAPI - INFO - Fetching notes for date: 2026-02-12
+2026-02-12 15:02:58 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 15:02:58 - TodoListAPI - INFO - ..............TodoList API Shutdown....................
+2026-02-12 15:03:01 - TodoListAPI - INFO - Mongodb connected successfully
+2026-02-12 15:03:01 - TodoListAPI - INFO - ..............TodoList API Started.....................
+2026-02-12 15:03:11 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 15:03:32 - TodoListAPI - INFO - Fetching notes for date: 2026-02-12
+2026-02-12 15:03:32 - TodoListAPI - INFO - Fetching notes for date: 2026-02-12
+2026-02-12 15:03:38 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 15:03:44 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-12 15:03:44 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-12 15:03:48 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 15:03:51 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 15:03:59 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 15:06:04 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 15:06:17 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 15:06:43 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 15:06:44 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 15:06:46 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 15:07:21 - TodoListAPI - INFO - ..............TodoList API Shutdown....................
+2026-02-12 15:07:26 - TodoListAPI - INFO - Mongodb connected successfully
+2026-02-12 15:07:26 - TodoListAPI - INFO - ..............TodoList API Started.....................
+2026-02-12 15:14:29 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-12 15:16:16 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 15:17:15 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 15:17:48 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 15:17:49 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 15:17:51 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 15:20:56 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-12 15:21:04 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-12 15:21:52 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 15:30:50 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 15:31:23 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 16:30:54 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 16:31:00 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 16:31:42 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 17:53:39 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 17:59:45 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 18:09:04 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-12 18:09:04 - TodoListAPI - INFO - ..............TodoList API Shutdown....................
+2026-02-12 18:09:08 - TodoListAPI - INFO - Mongodb connected successfully
+2026-02-12 18:09:17 - TodoListAPI - INFO - ..............TodoList API Started.....................
+2026-02-12 18:10:27 - TodoListAPI - INFO - Fetching notes for date: 2026-02-12
+2026-02-12 18:10:27 - TodoListAPI - INFO - ..............TodoList API Shutdown....................
+2026-02-12 18:10:32 - TodoListAPI - INFO - Mongodb connected successfully
+2026-02-12 18:10:33 - TodoListAPI - INFO - ..............TodoList API Started.....................
+2026-02-12 18:10:33 - TodoListAPI - INFO - Fetching notes for date: 2026-02-12
+2026-02-12 18:10:33 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 18:10:35 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-12 18:10:35 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-12 18:10:37 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 18:10:40 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 18:10:44 - TodoListAPI - INFO - Fetching notes for date: 2026-02-12
+2026-02-12 18:10:44 - TodoListAPI - INFO - Fetching notes for date: 2026-02-12
+2026-02-12 18:10:48 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-12 18:10:48 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-12 18:14:27 - TodoListAPI - INFO - Fetching notes for date: 2026-02-12
+2026-02-12 18:14:27 - TodoListAPI - INFO - Fetching notes for date: 2026-02-12
+2026-02-12 18:14:33 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 18:14:35 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 18:17:44 - TodoListAPI - INFO - Fetching notes for date: 2026-02-12
+2026-02-12 18:18:07 - TodoListAPI - INFO - Fetching notes for date: 2026-02-12
+2026-02-12 18:18:07 - TodoListAPI - INFO - Fetching notes for date: 2026-02-12
+2026-02-12 18:18:09 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 18:18:11 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 18:18:18 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-12 18:18:22 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-12 18:18:23 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-12 18:21:41 - TodoListAPI - INFO - ..............TodoList API Shutdown....................
+2026-02-12 18:21:45 - TodoListAPI - INFO - Mongodb connected successfully
+2026-02-12 18:21:48 - TodoListAPI - INFO - ..............TodoList API Started.....................
+2026-02-12 18:22:30 - TodoListAPI - INFO - ..............TodoList API Shutdown....................
+2026-02-12 18:22:34 - TodoListAPI - INFO - Mongodb connected successfully
+2026-02-12 18:22:35 - TodoListAPI - INFO - ..............TodoList API Started.....................
+2026-02-12 18:27:31 - TodoListAPI - INFO - ..............TodoList API Shutdown....................
+2026-02-12 18:27:33 - TodoListAPI - INFO - Mongodb connected successfully
+2026-02-12 18:27:33 - TodoListAPI - INFO - ..............TodoList API Started.....................
+2026-02-12 18:30:06 - TodoListAPI - INFO - ..............TodoList API Shutdown....................
+2026-02-12 18:30:09 - TodoListAPI - INFO - Mongodb connected successfully
+2026-02-12 18:30:09 - TodoListAPI - INFO - ..............TodoList API Started.....................
+2026-02-12 18:30:09 - TodoListAPI - INFO - ..............TodoList API Shutdown....................
+2026-02-13 10:40:58 - TodoListAPI - ERROR - Authentication failed: Signature has expired.
+2026-02-13 10:40:58 - TodoListAPI - ERROR - Authentication failed: Signature has expired.
+2026-02-13 10:40:58 - TodoListAPI - ERROR - Authentication failed: Signature has expired.
+2026-02-13 10:40:58 - TodoListAPI - ERROR - Authentication failed: Signature has expired.
+2026-02-13 10:41:20 - TodoListAPI - INFO - User authenticated successfully: intelligentzombie100@gmail.com
+2026-02-13 10:41:20 - TodoListAPI - INFO - User logged in successfully: intelligentzombie100@gmail.com
+2026-02-13 10:41:20 - TodoListAPI - INFO - Fetching notes for date: 2026-02-13
+2026-02-13 10:41:21 - TodoListAPI - INFO - Fetching notes for date: 2026-02-13
+2026-02-13 10:41:26 - TodoListAPI - INFO - Fetching notes for date: 2026-02-12
+2026-02-13 10:41:26 - TodoListAPI - INFO - Fetching notes for date: 2026-02-12
+2026-02-13 10:41:31 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-13 10:41:31 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-13 10:41:36 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-13 10:41:45 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-13 10:58:11 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-13 10:58:34 - TodoListAPI - INFO - Fetching notes for date: 2026-02-13
+2026-02-13 10:58:34 - TodoListAPI - INFO - Fetching notes for date: 2026-02-13
+2026-02-13 10:58:37 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-13 10:58:37 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-13 10:58:41 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-13 10:58:44 - TodoListAPI - WARNING - No fields updated with noteid:updateOrder
+2026-02-13 11:05:47 - TodoListAPI - INFO - User authenticated successfully: intelligentzombie100@gmail.com
+2026-02-13 11:05:47 - TodoListAPI - INFO - User logged in successfully: intelligentzombie100@gmail.com
+2026-02-13 11:06:37 - TodoListAPI - INFO - Fetching all notes is successfully
+2026-02-13 11:07:59 - TodoListAPI - INFO - Fetching all notes for user: 6978b132de00dd52a8cd002e
+2026-02-13 11:09:10 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-13 11:12:49 - TodoListAPI - INFO - ..............TodoList API Shutdown....................

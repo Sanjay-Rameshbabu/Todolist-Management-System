@@ -1,0 +1,411 @@
+2026-02-10 09:38:57 - TodoListAPI - INFO - Mongodb connected successfully
+2026-02-10 09:39:01 - TodoListAPI - INFO - ..............TodoList API Started.....................
+2026-02-10 09:39:43 - TodoListAPI - ERROR - Authentication failed: Signature has expired.
+2026-02-10 09:40:19 - TodoListAPI - INFO - User authenticated successfully: intelligentzombie100@gmail.com
+2026-02-10 09:40:19 - TodoListAPI - INFO - User logged in successfully: intelligentzombie100@gmail.com
+2026-02-10 09:40:19 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-10 09:40:19 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-10 09:40:19 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-10 09:40:19 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-10 09:40:35 - TodoListAPI - INFO - Audit log stored successfully
+2026-02-10 09:40:35 - TodoListAPI - INFO - Todo created successfully with noteid: 698aafbb810c45fa8f6bb6ea for user: intelligentzombie100@gmail.com
+2026-02-10 09:40:35 - TodoListAPI - INFO - Fetching all notes for user: 6978b132de00dd52a8cd002e
+2026-02-10 09:40:42 - TodoListAPI - INFO - Fetching notes for date: 2026-02-09
+2026-02-10 09:40:42 - TodoListAPI - INFO - Fetching notes for date: 2026-02-09
+2026-02-10 09:40:49 - TodoListAPI - INFO - Fetching notes for date: 2026-02-08
+2026-02-10 09:40:49 - TodoListAPI - INFO - Fetching notes for date: 2026-02-08
+2026-02-10 09:40:52 - TodoListAPI - INFO - Fetching notes for date: 2026-02-09
+2026-02-10 09:40:52 - TodoListAPI - INFO - Fetching notes for date: 2026-02-09
+2026-02-10 09:40:55 - TodoListAPI - INFO - Fetching notes for date: 2026-02-06
+2026-02-10 09:40:55 - TodoListAPI - INFO - Fetching notes for date: 2026-02-06
+2026-02-10 09:40:58 - TodoListAPI - INFO - Fetching notes for date: 2026-02-05
+2026-02-10 09:40:58 - TodoListAPI - INFO - Fetching notes for date: 2026-02-05
+2026-02-10 09:41:01 - TodoListAPI - INFO - Fetching notes for date: 2026-02-04
+2026-02-10 09:41:01 - TodoListAPI - INFO - Fetching notes for date: 2026-02-04
+2026-02-10 09:41:04 - TodoListAPI - INFO - Fetching notes for date: 2026-02-03
+2026-02-10 09:41:04 - TodoListAPI - INFO - Fetching notes for date: 2026-02-03
+2026-02-10 09:41:09 - TodoListAPI - INFO - Fetching notes for date: 2026-02-02
+2026-02-10 09:41:09 - TodoListAPI - INFO - Fetching notes for date: 2026-02-02
+2026-02-10 09:41:12 - TodoListAPI - INFO - Fetching notes for date: 2026-02-09
+2026-02-10 09:41:12 - TodoListAPI - INFO - Fetching notes for date: 2026-02-09
+2026-02-10 09:41:15 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-10 09:41:15 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-10 09:41:22 - TodoListAPI - INFO - Fetching notes for date: 2026-02-09
+2026-02-10 09:41:22 - TodoListAPI - INFO - Fetching notes for date: 2026-02-09
+2026-02-10 09:41:25 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-10 09:41:25 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-10 09:41:28 - TodoListAPI - INFO - Fetching notes for date: 2026-02-09
+2026-02-10 09:41:28 - TodoListAPI - INFO - Fetching notes for date: 2026-02-09
+2026-02-10 09:41:31 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-10 09:41:31 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-10 09:41:35 - TodoListAPI - INFO - Fetching notes for date: 2026-02-06
+2026-02-10 09:41:35 - TodoListAPI - INFO - Fetching notes for date: 2026-02-06
+2026-02-10 09:41:38 - TodoListAPI - INFO - Fetching notes for date: 2026-02-03
+2026-02-10 09:41:38 - TodoListAPI - INFO - Fetching notes for date: 2026-02-03
+2026-02-10 09:41:41 - TodoListAPI - INFO - Fetching notes for date: 2026-02-02
+2026-02-10 09:41:41 - TodoListAPI - INFO - Fetching notes for date: 2026-02-02
+2026-02-10 09:41:44 - TodoListAPI - INFO - Fetching notes for date: 2026-02-09
+2026-02-10 09:41:44 - TodoListAPI - INFO - Fetching notes for date: 2026-02-09
+2026-02-10 09:41:48 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-10 09:41:48 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-10 09:42:04 - TodoListAPI - INFO - Audit log stored successfully
+2026-02-10 09:42:04 - TodoListAPI - INFO - Todo created successfully with noteid: 698ab014810c45fa8f6bb6ec for user: intelligentzombie100@gmail.com
+2026-02-10 09:42:04 - TodoListAPI - INFO - Fetching all notes for user: 6978b132de00dd52a8cd002e
+2026-02-10 09:42:19 - TodoListAPI - INFO - Audit log stored successfully
+2026-02-10 09:42:19 - TodoListAPI - INFO - Soft delete is successfully for id:698ab014810c45fa8f6bb6ec
+2026-02-10 09:42:19 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-10 09:42:47 - TodoListAPI - INFO - Audit log stored successfully
+2026-02-10 09:42:47 - TodoListAPI - INFO - Todo created successfully with noteid: 698ab03f810c45fa8f6bb6ef for user: intelligentzombie100@gmail.com
+2026-02-10 09:42:47 - TodoListAPI - INFO - Fetching all notes for user: 6978b132de00dd52a8cd002e
+2026-02-10 09:43:00 - TodoListAPI - INFO - Audit log stored successfully
+2026-02-10 09:43:00 - TodoListAPI - INFO - Todo created successfully with noteid: 698ab04c810c45fa8f6bb6f1 for user: intelligentzombie100@gmail.com
+2026-02-10 09:43:00 - TodoListAPI - INFO - Fetching all notes for user: 6978b132de00dd52a8cd002e
+2026-02-10 09:43:09 - TodoListAPI - INFO - Audit log stored successfully
+2026-02-10 09:43:09 - TodoListAPI - INFO - Audit log stored successfully
+2026-02-10 09:43:09 - TodoListAPI - INFO - Many notes deleted successfully
+2026-02-10 09:43:09 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-10 09:43:09 - TodoListAPI - INFO - Fetching notes for date: [object Set]
+2026-02-10 09:43:55 - TodoListAPI - INFO - ..............TodoList API Shutdown....................
+2026-02-10 09:43:57 - TodoListAPI - INFO - Mongodb connected successfully
+2026-02-10 09:43:58 - TodoListAPI - INFO - ..............TodoList API Started.....................
+2026-02-10 09:43:58 - TodoListAPI - INFO - Audit log stored successfully
+2026-02-10 09:43:58 - TodoListAPI - INFO - Todo created successfully with noteid: 698ab086538a56ea26cfa9d4 for user: intelligentzombie100@gmail.com
+2026-02-10 09:43:58 - TodoListAPI - INFO - Fetching all notes for user: 6978b132de00dd52a8cd002e
+2026-02-10 09:44:07 - TodoListAPI - INFO - Audit log stored successfully
+2026-02-10 09:44:07 - TodoListAPI - INFO - Todo created successfully with noteid: 698ab08f538a56ea26cfa9d6 for user: intelligentzombie100@gmail.com
+2026-02-10 09:44:07 - TodoListAPI - INFO - Fetching all notes for user: 6978b132de00dd52a8cd002e
+2026-02-10 09:44:15 - TodoListAPI - INFO - Audit log stored successfully
+2026-02-10 09:44:15 - TodoListAPI - INFO - Audit log stored successfully
+2026-02-10 09:44:15 - TodoListAPI - INFO - Many notes deleted successfully
+2026-02-10 09:44:15 - TodoListAPI - INFO - Fetching notes for date: [object Set]
+2026-02-10 09:44:15 - TodoListAPI - INFO - Fetching notes for date: [object Set]
+2026-02-10 09:53:15 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-10 09:53:15 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-10 09:53:15 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-10 09:53:15 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-10 09:53:41 - TodoListAPI - INFO - Audit log stored successfully
+2026-02-10 09:53:41 - TodoListAPI - INFO - Todo created successfully with noteid: 698ab2cd538a56ea26cfa9da for user: intelligentzombie100@gmail.com
+2026-02-10 09:53:41 - TodoListAPI - INFO - Fetching all notes for user: 6978b132de00dd52a8cd002e
+2026-02-10 09:53:55 - TodoListAPI - INFO - Audit log stored successfully
+2026-02-10 09:53:55 - TodoListAPI - INFO - Todo created successfully with noteid: 698ab2db538a56ea26cfa9dc for user: intelligentzombie100@gmail.com
+2026-02-10 09:53:55 - TodoListAPI - INFO - Fetching all notes for user: 6978b132de00dd52a8cd002e
+2026-02-10 09:54:08 - TodoListAPI - INFO - Audit log stored successfully
+2026-02-10 09:54:08 - TodoListAPI - INFO - Audit log stored successfully
+2026-02-10 09:54:08 - TodoListAPI - INFO - Many notes deleted successfully
+2026-02-10 09:54:08 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-10 09:59:04 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-10 10:00:26 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-10 10:00:28 - TodoListAPI - INFO - Fetching notes for date: 2026-02-09
+2026-02-10 10:00:31 - TodoListAPI - INFO - Fetching notes for date: 2026-02-08
+2026-02-10 10:00:34 - TodoListAPI - INFO - Fetching notes for date: 2026-02-02
+2026-02-10 10:00:37 - TodoListAPI - INFO - Fetching notes for date: 2026-02-03
+2026-02-10 10:00:40 - TodoListAPI - INFO - Fetching notes for date: 2026-02-04
+2026-02-10 10:00:42 - TodoListAPI - INFO - Fetching notes for date: 2026-02-05
+2026-02-10 10:01:13 - TodoListAPI - ERROR - Authentication failed: Signature has expired.
+2026-02-10 10:01:13 - TodoListAPI - ERROR - Authentication failed: Signature has expired.
+2026-02-10 10:01:42 - TodoListAPI - INFO - User authenticated successfully: intelligentzombie100@gmail.com
+2026-02-10 10:01:42 - TodoListAPI - INFO - User logged in successfully: intelligentzombie100@gmail.com
+2026-02-10 10:01:42 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-10 10:01:42 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-10 10:06:05 - TodoListAPI - INFO - Fetching notes for date: 2026-02-09
+2026-02-10 10:06:09 - TodoListAPI - INFO - Fetching notes for date: 2026-02-08
+2026-02-10 10:06:11 - TodoListAPI - INFO - Fetching notes for date: 2026-02-07
+2026-02-10 10:06:14 - TodoListAPI - INFO - Fetching notes for date: 2026-02-06
+2026-02-10 10:06:17 - TodoListAPI - INFO - Fetching notes for date: 2026-02-05
+2026-02-10 10:06:20 - TodoListAPI - INFO - Fetching notes for date: 2026-02-04
+2026-02-10 10:06:22 - TodoListAPI - INFO - Fetching notes for date: 2026-02-03
+2026-02-10 10:06:26 - TodoListAPI - INFO - Fetching notes for date: 2026-02-02
+2026-02-10 10:06:29 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-10 10:06:45 - TodoListAPI - INFO - Audit log stored successfully
+2026-02-10 10:06:45 - TodoListAPI - INFO - Todo created successfully with noteid: 698ab5dd538a56ea26cfa9e0 for user: intelligentzombie100@gmail.com
+2026-02-10 10:06:45 - TodoListAPI - INFO - Fetching all notes for user: 6978b132de00dd52a8cd002e
+2026-02-10 10:06:53 - TodoListAPI - INFO - Audit log stored successfully
+2026-02-10 10:06:53 - TodoListAPI - INFO - Many notes deleted successfully
+2026-02-10 10:06:53 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-10 10:07:55 - TodoListAPI - INFO - Audit log stored successfully
+2026-02-10 10:07:55 - TodoListAPI - INFO - Todo created successfully with noteid: 698ab623538a56ea26cfa9e3 for user: intelligentzombie100@gmail.com
+2026-02-10 10:07:55 - TodoListAPI - INFO - Fetching all notes for user: 6978b132de00dd52a8cd002e
+2026-02-10 10:08:00 - TodoListAPI - INFO - Audit log stored successfully
+2026-02-10 10:08:00 - TodoListAPI - INFO - Soft delete is successfully for id:698ab623538a56ea26cfa9e3
+2026-02-10 10:08:00 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-10 10:08:12 - TodoListAPI - INFO - Audit log stored successfully
+2026-02-10 10:08:12 - TodoListAPI - INFO - Todo created successfully with noteid: 698ab634538a56ea26cfa9e6 for user: intelligentzombie100@gmail.com
+2026-02-10 10:08:12 - TodoListAPI - INFO - Fetching all notes for user: 6978b132de00dd52a8cd002e
+2026-02-10 10:08:29 - TodoListAPI - INFO - Audit log stored successfully
+2026-02-10 10:08:29 - TodoListAPI - INFO - Todo created successfully with noteid: 698ab645538a56ea26cfa9e8 for user: intelligentzombie100@gmail.com
+2026-02-10 10:08:29 - TodoListAPI - INFO - Fetching all notes for user: 6978b132de00dd52a8cd002e
+2026-02-10 10:08:43 - TodoListAPI - INFO - Audit log stored successfully
+2026-02-10 10:08:43 - TodoListAPI - INFO - Audit log stored successfully
+2026-02-10 10:08:43 - TodoListAPI - INFO - Many notes deleted successfully
+2026-02-10 10:08:43 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-10 10:22:37 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-10 10:22:37 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-10 10:24:42 - TodoListAPI - INFO - Fetching notes for date: 2026-02-09
+2026-02-10 10:30:28 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-10 10:31:08 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-10 10:31:08 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-10 10:31:09 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-10 10:31:09 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-10 10:31:10 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-10 10:31:10 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-10 10:31:10 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-10 10:31:10 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-10 10:35:25 - TodoListAPI - INFO - Audit log stored successfully
+2026-02-10 10:35:25 - TodoListAPI - INFO - Todo created successfully with noteid: 698abc95538a56ea26cfa9ec for user: intelligentzombie100@gmail.com
+2026-02-10 10:35:25 - TodoListAPI - INFO - Fetching all notes for user: 6978b132de00dd52a8cd002e
+2026-02-10 10:35:29 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-10 10:35:29 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-10 10:35:52 - TodoListAPI - INFO - User authenticated successfully: intelligentzombie100@gmail.com
+2026-02-10 10:35:52 - TodoListAPI - INFO - User logged in successfully: intelligentzombie100@gmail.com
+2026-02-10 10:35:52 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-10 10:35:52 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-10 10:59:17 - TodoListAPI - INFO - ..............TodoList API Shutdown....................
+2026-02-10 10:59:19 - TodoListAPI - INFO - Mongodb connected successfully
+2026-02-10 10:59:19 - TodoListAPI - INFO - ..............TodoList API Started.....................
+2026-02-10 11:22:07 - TodoListAPI - INFO - ..............TodoList API Shutdown....................
+2026-02-10 11:22:10 - TodoListAPI - INFO - Mongodb connected successfully
+2026-02-10 11:22:10 - TodoListAPI - INFO - ..............TodoList API Started.....................
+2026-02-10 11:27:08 - TodoListAPI - INFO - ..............TodoList API Shutdown....................
+2026-02-10 11:27:10 - TodoListAPI - INFO - Mongodb connected successfully
+2026-02-10 11:33:51 - TodoListAPI - INFO - Mongodb connected successfully
+2026-02-10 11:37:59 - TodoListAPI - INFO - Mongodb connected successfully
+2026-02-10 12:07:16 - TodoListAPI - INFO - Mongodb connected successfully
+2026-02-10 12:08:40 - TodoListAPI - INFO - Mongodb connected successfully
+2026-02-10 12:14:36 - TodoListAPI - INFO - Mongodb connected successfully
+2026-02-10 12:17:23 - TodoListAPI - INFO - Mongodb connected successfully
+2026-02-10 12:19:31 - TodoListAPI - INFO - Mongodb connected successfully
+2026-02-10 12:20:32 - TodoListAPI - INFO - Mongodb connected successfully
+2026-02-10 12:21:10 - TodoListAPI - INFO - Mongodb connected successfully
+2026-02-10 12:21:44 - TodoListAPI - INFO - Mongodb connected successfully
+2026-02-10 12:21:49 - TodoListAPI - INFO - ..............TodoList API Started.....................
+2026-02-10 12:25:23 - TodoListAPI - INFO - User authenticated successfully: intelligentzombie100@gmail.com
+2026-02-10 12:25:23 - TodoListAPI - INFO - User logged in successfully: intelligentzombie100@gmail.com
+2026-02-10 12:32:31 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-10 12:32:31 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-10 12:32:31 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-10 12:32:31 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-10 12:40:16 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-10 12:40:16 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-10 12:53:54 - TodoListAPI - INFO - ..............TodoList API Shutdown....................
+2026-02-10 12:53:56 - TodoListAPI - INFO - Mongodb connected successfully
+2026-02-10 12:53:57 - TodoListAPI - INFO - ..............TodoList API Started.....................
+2026-02-10 12:55:09 - TodoListAPI - INFO - User authenticated successfully: intelligentzombie100@gmail.com
+2026-02-10 12:55:09 - TodoListAPI - INFO - User logged in successfully: intelligentzombie100@gmail.com
+2026-02-10 13:03:55 - TodoListAPI - INFO - ..............TodoList API Shutdown....................
+2026-02-10 13:03:57 - TodoListAPI - INFO - Mongodb connected successfully
+2026-02-10 13:03:58 - TodoListAPI - INFO - ..............TodoList API Started.....................
+2026-02-10 13:15:50 - TodoListAPI - INFO - ..............TodoList API Shutdown....................
+2026-02-10 13:15:53 - TodoListAPI - INFO - Mongodb connected successfully
+2026-02-10 13:15:53 - TodoListAPI - INFO - ..............TodoList API Started.....................
+2026-02-10 13:20:51 - TodoListAPI - INFO - ..............TodoList API Shutdown....................
+2026-02-10 13:20:53 - TodoListAPI - INFO - Mongodb connected successfully
+2026-02-10 13:20:53 - TodoListAPI - INFO - ..............TodoList API Started.....................
+2026-02-10 13:22:40 - TodoListAPI - INFO - ..............TodoList API Shutdown....................
+2026-02-10 14:02:08 - TodoListAPI - INFO - Mongodb connected successfully
+2026-02-10 14:02:13 - TodoListAPI - INFO - ..............TodoList API Started.....................
+2026-02-10 14:02:29 - TodoListAPI - INFO - ..............TodoList API Shutdown....................
+2026-02-10 14:03:08 - TodoListAPI - INFO - Mongodb connected successfully
+2026-02-10 14:03:08 - TodoListAPI - INFO - ..............TodoList API Started.....................
+2026-02-10 14:03:26 - TodoListAPI - ERROR - Failed to add tag for user 6978b132de00dd52a8cd002e: object UpdateResult can't be used in 'await' expression
+2026-02-10 14:04:14 - TodoListAPI - ERROR - Failed to add tag for user 6978b132de00dd52a8cd002e: object UpdateResult can't be used in 'await' expression
+2026-02-10 14:04:50 - TodoListAPI - ERROR - Failed to fetch tags for user 6978b132de00dd52a8cd002e: object dict can't be used in 'await' expression
+2026-02-10 14:04:50 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-10 14:04:50 - TodoListAPI - ERROR - Failed to fetch tags for user 6978b132de00dd52a8cd002e: object dict can't be used in 'await' expression
+2026-02-10 14:04:50 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-10 14:04:50 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-10 14:04:51 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-10 14:05:12 - TodoListAPI - ERROR - Failed to add tag for user 6978b132de00dd52a8cd002e: object UpdateResult can't be used in 'await' expression
+2026-02-10 14:05:13 - TodoListAPI - ERROR - Failed to add tag for user 6978b132de00dd52a8cd002e: object UpdateResult can't be used in 'await' expression
+2026-02-10 14:06:45 - TodoListAPI - ERROR - Failed to add tag for user 6978b132de00dd52a8cd002e: object UpdateResult can't be used in 'await' expression
+2026-02-10 14:06:45 - TodoListAPI - INFO - ..............TodoList API Shutdown....................
+2026-02-10 14:06:47 - TodoListAPI - INFO - Mongodb connected successfully
+2026-02-10 14:06:47 - TodoListAPI - INFO - ..............TodoList API Started.....................
+2026-02-10 14:07:15 - TodoListAPI - INFO - Health check endpoint accessed
+2026-02-10 14:08:56 - TodoListAPI - ERROR - Failed to add tag for user 6978b132de00dd52a8cd002e: object UpdateResult can't be used in 'await' expression
+2026-02-10 14:13:06 - TodoListAPI - INFO - ..............TodoList API Shutdown....................
+2026-02-10 14:13:09 - TodoListAPI - INFO - Mongodb connected successfully
+2026-02-10 14:13:09 - TodoListAPI - INFO - ..............TodoList API Started.....................
+2026-02-10 14:14:03 - TodoListAPI - INFO - Audit log stored successfully
+2026-02-10 14:14:03 - TodoListAPI - INFO - Todo created successfully with noteid: 698aefd38c2362fdac540acc for user: intelligentzombie100@gmail.com
+2026-02-10 14:14:03 - TodoListAPI - INFO - Fetching all notes for user: 6978b132de00dd52a8cd002e
+2026-02-10 14:14:53 - TodoListAPI - INFO - Audit log stored successfully
+2026-02-10 14:14:53 - TodoListAPI - INFO - Todo created successfully with noteid: 698af0058c2362fdac540ace for user: intelligentzombie100@gmail.com
+2026-02-10 14:14:53 - TodoListAPI - INFO - Fetching all notes for user: 6978b132de00dd52a8cd002e
+2026-02-10 14:22:26 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-10 14:22:26 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-10 14:24:08 - TodoListAPI - INFO - User authenticated successfully: intelligentzombie100@gmail.com
+2026-02-10 14:24:08 - TodoListAPI - INFO - User logged in successfully: intelligentzombie100@gmail.com
+2026-02-10 14:25:30 - TodoListAPI - INFO - ..............TodoList API Shutdown....................
+2026-02-10 14:25:33 - TodoListAPI - INFO - Mongodb connected successfully
+2026-02-10 14:25:34 - TodoListAPI - INFO - ..............TodoList API Started.....................
+2026-02-10 14:25:58 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-10 14:25:58 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-10 14:25:58 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-10 14:25:58 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-10 14:26:02 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-10 14:26:02 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-10 14:26:02 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-10 14:26:02 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-10 14:26:25 - TodoListAPI - INFO - User authenticated successfully: intelligentzombie100@gmail.com
+2026-02-10 14:26:25 - TodoListAPI - INFO - User logged in successfully: intelligentzombie100@gmail.com
+2026-02-10 14:26:25 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-10 14:26:25 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-10 14:26:25 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-10 14:26:25 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-10 14:26:35 - TodoListAPI - INFO - Fetching notes for date: 2026-02-09
+2026-02-10 14:26:40 - TodoListAPI - INFO - Fetching notes for date: 2026-02-08
+2026-02-10 14:26:44 - TodoListAPI - INFO - Fetching notes for date: 2026-02-09
+2026-02-10 14:26:47 - TodoListAPI - INFO - Fetching notes for date: 2026-02-07
+2026-02-10 14:26:50 - TodoListAPI - INFO - Fetching notes for date: 2026-02-09
+2026-02-10 14:32:54 - TodoListAPI - INFO - User authenticated successfully: intelligentzombie100@gmail.com
+2026-02-10 14:32:54 - TodoListAPI - INFO - User logged in successfully: intelligentzombie100@gmail.com
+2026-02-10 14:32:54 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-10 14:32:54 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-10 14:32:54 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-10 14:32:54 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-10 14:42:31 - TodoListAPI - INFO - ..............TodoList API Shutdown....................
+2026-02-10 14:42:34 - TodoListAPI - INFO - Mongodb connected successfully
+2026-02-10 14:42:34 - TodoListAPI - INFO - ..............TodoList API Started.....................
+2026-02-10 14:47:32 - TodoListAPI - INFO - ..............TodoList API Shutdown....................
+2026-02-10 14:47:34 - TodoListAPI - INFO - Mongodb connected successfully
+2026-02-10 14:47:35 - TodoListAPI - INFO - ..............TodoList API Started.....................
+2026-02-10 14:52:06 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-10 14:52:06 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-10 14:52:06 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-10 14:52:06 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-10 14:52:38 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-10 14:52:38 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-10 14:52:38 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-10 14:52:38 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-10 14:52:59 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-10 14:52:59 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-10 14:52:59 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-10 14:52:59 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-10 14:57:33 - TodoListAPI - INFO - ..............TodoList API Shutdown....................
+2026-02-10 14:57:35 - TodoListAPI - INFO - Mongodb connected successfully
+2026-02-10 14:57:35 - TodoListAPI - INFO - ..............TodoList API Started.....................
+2026-02-10 14:58:33 - TodoListAPI - ERROR - Error fetching tags: type object 'todolist' has no attribute 'get_all_tags'
+2026-02-10 14:59:05 - TodoListAPI - ERROR - Error fetching tags: type object 'todolist' has no attribute 'get_all_tags'
+2026-02-10 14:59:05 - TodoListAPI - INFO - ..............TodoList API Shutdown....................
+2026-02-10 14:59:07 - TodoListAPI - INFO - Mongodb connected successfully
+2026-02-10 15:00:01 - TodoListAPI - INFO - Mongodb connected successfully
+2026-02-10 15:00:09 - TodoListAPI - INFO - Mongodb connected successfully
+2026-02-10 15:00:09 - TodoListAPI - INFO - ..............TodoList API Started.....................
+2026-02-10 15:00:16 - TodoListAPI - ERROR - Error fetching tags: type object 'todolist' has no attribute 'get_all_tags'
+2026-02-10 15:02:54 - TodoListAPI - INFO - ..............TodoList API Shutdown....................
+2026-02-10 15:02:57 - TodoListAPI - INFO - Mongodb connected successfully
+2026-02-10 15:02:57 - TodoListAPI - INFO - ..............TodoList API Started.....................
+2026-02-10 15:03:05 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-10 15:03:05 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-10 15:03:05 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-10 15:03:05 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-10 15:03:15 - TodoListAPI - INFO - Fetching all tags for user: 6978b132de00dd52a8cd002e
+2026-02-10 15:03:57 - TodoListAPI - INFO - Fetching all tags for user: 6978b132de00dd52a8cd002e
+2026-02-10 15:04:18 - TodoListAPI - INFO - Fetching all tags for user: 6978b132de00dd52a8cd002e
+2026-02-10 15:09:56 - TodoListAPI - INFO - ..............TodoList API Shutdown....................
+2026-02-10 15:09:59 - TodoListAPI - INFO - Mongodb connected successfully
+2026-02-10 15:09:59 - TodoListAPI - INFO - ..............TodoList API Started.....................
+2026-02-10 15:10:01 - TodoListAPI - INFO - Fetching all tags for user: 6978b132de00dd52a8cd002e
+2026-02-10 15:20:02 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-10 15:39:42 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-10 15:53:29 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-10 15:53:29 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-10 15:53:30 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-10 15:53:30 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-10 15:54:46 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-10 15:54:46 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-10 15:56:53 - TodoListAPI - INFO - Fetching all tags for user: 6978b132de00dd52a8cd002e
+2026-02-10 16:01:00 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-10 16:16:18 - TodoListAPI - INFO - ..............TodoList API Shutdown....................
+2026-02-10 16:16:20 - TodoListAPI - INFO - Mongodb connected successfully
+2026-02-10 16:16:21 - TodoListAPI - INFO - ..............TodoList API Started.....................
+2026-02-10 16:16:39 - TodoListAPI - INFO - User authenticated successfully: intelligentzombie100@gmail.com
+2026-02-10 16:16:39 - TodoListAPI - INFO - User logged in successfully: intelligentzombie100@gmail.com
+2026-02-10 16:17:04 - TodoListAPI - ERROR - Error fetching tags: type object 'todolist' has no attribute 'get_all_tags'
+2026-02-10 16:17:28 - TodoListAPI - INFO - ..............TodoList API Shutdown....................
+2026-02-10 16:17:31 - TodoListAPI - INFO - Mongodb connected successfully
+2026-02-10 16:17:31 - TodoListAPI - INFO - ..............TodoList API Started.....................
+2026-02-10 16:17:47 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-10 16:17:48 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-10 16:27:06 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-10 16:27:06 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-10 16:27:30 - TodoListAPI - INFO - User authenticated successfully: intelligentzombie100@gmail.com
+2026-02-10 16:27:30 - TodoListAPI - INFO - User logged in successfully: intelligentzombie100@gmail.com
+2026-02-10 16:27:30 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-10 16:27:30 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-10 16:37:14 - TodoListAPI - INFO - ..............TodoList API Shutdown....................
+2026-02-10 16:37:17 - TodoListAPI - INFO - Mongodb connected successfully
+2026-02-10 16:37:17 - TodoListAPI - INFO - ..............TodoList API Started.....................
+2026-02-10 16:48:59 - TodoListAPI - INFO - ..............TodoList API Shutdown....................
+2026-02-10 16:49:02 - TodoListAPI - INFO - Mongodb connected successfully
+2026-02-10 16:49:02 - TodoListAPI - INFO - ..............TodoList API Started.....................
+2026-02-10 16:49:48 - TodoListAPI - INFO - ..............TodoList API Shutdown....................
+2026-02-10 16:49:51 - TodoListAPI - INFO - Mongodb connected successfully
+2026-02-10 16:49:51 - TodoListAPI - INFO - ..............TodoList API Started.....................
+2026-02-10 16:50:45 - TodoListAPI - ERROR - Error in add notes:cannot encode object: UserTagsCreate(tag='work'), of type: <class 'controller.todolistcontroller.UserTagsCreate'>
+2026-02-10 16:53:20 - TodoListAPI - ERROR - Error in add notes:cannot encode object: UserTagsCreate(tag='work'), of type: <class 'controller.todolistcontroller.UserTagsCreate'>
+2026-02-10 16:53:20 - TodoListAPI - INFO - ..............TodoList API Shutdown....................
+2026-02-10 16:53:23 - TodoListAPI - INFO - Mongodb connected successfully
+2026-02-10 16:53:23 - TodoListAPI - INFO - ..............TodoList API Started.....................
+2026-02-10 17:02:09 - TodoListAPI - INFO - ..............TodoList API Shutdown....................
+2026-02-10 17:02:11 - TodoListAPI - INFO - Mongodb connected successfully
+2026-02-10 17:02:11 - TodoListAPI - INFO - ..............TodoList API Started.....................
+2026-02-10 17:04:30 - TodoListAPI - INFO - ..............TodoList API Shutdown....................
+2026-02-10 17:04:32 - TodoListAPI - INFO - Mongodb connected successfully
+2026-02-10 17:04:32 - TodoListAPI - INFO - ..............TodoList API Started.....................
+2026-02-10 17:05:44 - TodoListAPI - INFO - ..............TodoList API Shutdown....................
+2026-02-10 17:05:47 - TodoListAPI - INFO - Mongodb connected successfully
+2026-02-10 17:05:47 - TodoListAPI - INFO - ..............TodoList API Started.....................
+2026-02-10 17:07:34 - TodoListAPI - INFO - ..............TodoList API Shutdown....................
+2026-02-10 17:07:36 - TodoListAPI - INFO - Mongodb connected successfully
+2026-02-10 17:07:37 - TodoListAPI - INFO - ..............TodoList API Started.....................
+2026-02-10 17:07:46 - TodoListAPI - INFO - ..............TodoList API Shutdown....................
+2026-02-10 17:07:48 - TodoListAPI - INFO - Mongodb connected successfully
+2026-02-10 17:07:49 - TodoListAPI - INFO - ..............TodoList API Started.....................
+2026-02-10 17:13:05 - TodoListAPI - INFO - ..............TodoList API Shutdown....................
+2026-02-10 17:13:08 - TodoListAPI - INFO - Mongodb connected successfully
+2026-02-10 17:13:08 - TodoListAPI - INFO - ..............TodoList API Started.....................
+2026-02-10 17:13:16 - TodoListAPI - ERROR - Error in add notes:object UpdateResult can't be used in 'await' expression
+2026-02-10 17:43:59 - TodoListAPI - INFO - ..............TodoList API Shutdown....................
+2026-02-10 17:44:01 - TodoListAPI - INFO - Mongodb connected successfully
+2026-02-10 17:44:02 - TodoListAPI - INFO - ..............TodoList API Started.....................
+2026-02-10 17:49:30 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-10 17:49:30 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-10 17:50:48 - TodoListAPI - INFO - Audit log stored successfully
+2026-02-10 17:50:48 - TodoListAPI - INFO - Todo created successfully with noteid: 698b22a0863c1fa5553a0256 for user: intelligentzombie100@gmail.com
+2026-02-10 17:50:48 - TodoListAPI - INFO - Fetching all notes for user: 6978b132de00dd52a8cd002e
+2026-02-10 17:52:36 - TodoListAPI - INFO - User authenticated successfully: intelligentzombie100@gmail.com
+2026-02-10 17:52:36 - TodoListAPI - INFO - User logged in successfully: intelligentzombie100@gmail.com
+2026-02-10 17:52:36 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-10 17:52:36 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-10 17:55:52 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-10 17:55:52 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-10 18:17:17 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-10 18:17:17 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-10 18:17:19 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-10 18:17:19 - TodoListAPI - INFO - Fetching notes for date: 2026-02-10
+2026-02-10 18:24:09 - TodoListAPI - INFO - ..............TodoList API Shutdown....................
+2026-02-10 18:24:11 - TodoListAPI - INFO - Mongodb connected successfully
+2026-02-10 18:24:36 - TodoListAPI - INFO - Mongodb connected successfully
+2026-02-10 18:24:37 - TodoListAPI - INFO - ..............TodoList API Started.....................
+2026-02-10 18:27:26 - TodoListAPI - INFO - User authenticated successfully: intelligentzombie100@gmail.com
+2026-02-10 18:27:26 - TodoListAPI - INFO - User logged in successfully: intelligentzombie100@gmail.com
+2026-02-10 18:27:59 - TodoListAPI - ERROR - Error in add notes:type 'ObjectId' is not subscriptable
+2026-02-10 18:44:05 - TodoListAPI - ERROR - Authentication failed: Signature has expired.
+2026-02-10 18:44:05 - TodoListAPI - ERROR - Authentication failed: Signature has expired.
+2026-02-10 18:44:05 - TodoListAPI - ERROR - Authentication failed: Signature has expired.
+2026-02-10 18:44:05 - TodoListAPI - ERROR - Authentication failed: Signature has expired.
+2026-02-10 18:55:21 - TodoListAPI - INFO - ..............TodoList API Shutdown....................
+2026-02-10 18:55:23 - TodoListAPI - INFO - Mongodb connected successfully
+2026-02-10 18:55:23 - TodoListAPI - INFO - ..............TodoList API Started.....................
+2026-02-10 19:00:13 - TodoListAPI - INFO - ..............TodoList API Shutdown....................
+2026-02-10 19:00:16 - TodoListAPI - INFO - Mongodb connected successfully
+2026-02-10 19:00:16 - TodoListAPI - INFO - ..............TodoList API Started.....................
+2026-02-10 19:00:56 - TodoListAPI - INFO - ..............TodoList API Shutdown....................
+2026-02-10 19:00:58 - TodoListAPI - INFO - Mongodb connected successfully
+2026-02-10 19:00:58 - TodoListAPI - INFO - ..............TodoList API Started.....................
+2026-02-10 19:01:01 - TodoListAPI - ERROR - Error in add notes:'dict' object has no attribute 'insert_one'
+2026-02-10 19:02:37 - TodoListAPI - INFO - ..............TodoList API Shutdown....................
+2026-02-10 19:02:39 - TodoListAPI - INFO - Mongodb connected successfully
+2026-02-10 19:02:40 - TodoListAPI - INFO - ..............TodoList API Started.....................
+2026-02-11 10:12:48 - TodoListAPI - INFO - ..............TodoList API Shutdown....................
